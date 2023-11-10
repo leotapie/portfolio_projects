@@ -58,7 +58,7 @@ Here we are... I'm looking for my first data analyst job! I've always been fasci
 ## Contact
 
 - Email: leotapie@@email.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leo-tapie-81a101132/)
+- LinkedIn: [Leo Tapie](https://www.linkedin.com/in/leo-tapie-81a101132/)
 
 ---
 
