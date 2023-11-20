@@ -19,7 +19,7 @@ My main focus for these projects has been to:
 I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. 
 My thought process and workflow is always explained (in the notebooks or README sections of each projects) and all scripts are thoroughly commented.
 
-### Project 1: [NBA MVP prediction](link-to-project-1) - Predicting the next MVP based on historical stats data. 
+### Project 1: [NBA MVP prediction](https://github.com/leotapie/portfolio_projects/tree/main/MVP%20prediction%20project) - Predicting the next MVP based on historical stats data. 
 
 Steps:
   1) Scrapping data from the web
