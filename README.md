@@ -1,6 +1,6 @@
 # Leo Tapie's Portfolio
 
-Welcome to my GitHub portfolio! Here you'll find a collection of my projects and contributions. Feel free to explore and get in touch.
+Welcome to my GitHub portfolio! You'll find a collection of some of my projects and contributions. Feel free to explore and get in touch.
 
 ## Table of Contents
 
@@ -12,15 +12,26 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects and
 ## Projects
 
 My main focus for these projects has been to:
-- learn about best practices associated with cleaning and maanipulating datasets
+- learn about best practices associated with cleaning and manipulating datasets
 - utilise my Python, SQL and Tableau skills
 - and showcase my knowledge of a wide range of plotting libraries and visualisation tools.
 
-I've added a short description of each project below so you choose what you wish to look at. 
+I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. 
+My thought process and workflow is always explained (in the notebooks or README sections of each projects) and all scripts are thoroughly commented.
 
-### Project 1: [Project Name 1](link-to-project-1)
-![Project 1 Image](link-to-project-1-image)
-Description: A brief description of your project, its purpose, and key features.
+
+### Project 1: [NBA MVP prediction](link-to-project-1) - Predicting the next MVP based on historical stats data. 
+
+Steps:
+  1) Scrapping data from the web
+  2) Cleaning and combining the data, as well as exploratory anaysis (EDA)
+  3) Building 2 predictive models (Ridge Regression and Random Forest). Success was measured by the ability to predict the Top 5 (assessed through back testing). 
+
+Key tools/library/concepts used:
+- Scraping: `request`, `bs4`, `selenium` and `pandas` libraries. Simple and more complex data parsing (i.e., using browser driver).
+- Clean Up: `pandas` library and data cleansing procedures. EDA: **correlation analysis**.
+- Modemming: `pandas` and `sklearn` libraries. Concepts: **Machine learning, error metric & back testing**.
+
 
 ### Project 2: [Project Name 2](link-to-project-2)
 ![Project 2 Image](link-to-project-2-image)
