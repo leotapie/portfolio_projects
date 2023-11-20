@@ -12,13 +12,12 @@ Welcome to my GitHub portfolio! You'll find a collection of some of my projects 
 ## Projects
 
 My main focus for these projects has been to:
-- learn about best practices associated with cleaning and manipulating datasets
-- utilise my Python, SQL and Tableau skills
+- learn about best practices associated with data cleaning, transformation and modelling
+- utilise my Python and SQL skills
 - and showcase my knowledge of a wide range of plotting libraries and visualisation tools.
 
 I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. 
 My thought process and workflow is always explained (in the notebooks or README sections of each projects) and all scripts are thoroughly commented.
-
 
 ### Project 1: [NBA MVP prediction](link-to-project-1) - Predicting the next MVP based on historical stats data. 
 
