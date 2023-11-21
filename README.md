@@ -32,9 +32,18 @@ Key tools/library/concepts used:
 - Modemming: `pandas` and `sklearn` libraries. Concepts: **Machine learning, error metric & back testing**.
 
 
-### Project 2: [Project Name 2](link-to-project-2)
-![Project 2 Image](link-to-project-2-image)
-Description:
+### Project 2: [Citi Bike Rental](https://github.com/leotapie/portfolio_projects/tree/main/Citi%20Bike%20Rides) - Analyse NYC's city bike trips from 2016.
+
+Steps:
+  1) Cleaning and combining the data
+  2) Load the data into a Postgre database and create views
+  3) Visualise the the data in Tableau
+
+Key tools/library/concepts used:
+- Cleaning and loading data: `pandas` and `sqlalchemy` libraries.
+- Databse creation: `PostgreSQL` through the `Postbird` client. 
+- Visualisation: `Tableau`.
+
 
 ### Project 3: [Project Name 3](link-to-project-3)
 ![Project 3 Image](link-to-project-3-image)
