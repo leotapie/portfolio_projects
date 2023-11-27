@@ -45,19 +45,6 @@ Key tools/library/concepts used:
 - Visualisation: `Tableau`.
 
 
-### Project 3: [Project Name 3](link-to-project-3)
-![Project 3 Image](link-to-project-3-image)
-Description:
-
-### Project 4: [Project Name 3](link-to-project-3)
-![Project 3 Image](link-to-project-3-image)
-Description:
-
-### Project 5: [Project Name 3](link-to-project-3)
-![Project 3 Image](link-to-project-3-image)
-Description:
-
-
 ## About Me
 
 I'm French but have been living in England for the last 8 years (London based these days). I've had the chance to grow up in Poland, Czech Republic and France, and
