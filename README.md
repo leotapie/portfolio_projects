@@ -8,6 +8,7 @@ Welcome to my GitHub portfolio! You'll find a collection of some of my projects 
 - [About Me](#about-me)
 - [Contact](#contact)
 
+---
 
 ## Projects
 
@@ -44,6 +45,7 @@ Key tools/library/concepts used:
 - Databse creation: `PostgreSQL` through the `Postbird` client. 
 - Visualisation: `Tableau`.
 
+---
 
 ## About Me
 
@@ -56,6 +58,7 @@ For both personal (I travelled around Asia for 6 months and relocated to London)
 
 Here we are... I'm looking for my first data analyst/scientist job! I've always been fascinated by the challenge of finding solutions to a problem (and the satisfaction it brings!). Finding the *right* visualisation to illustrate an inisght or message is also something I enjoy. And I like understanding how things work (no suprise there, engineer!) - mainly: complex interactions in a system, influences and correlations between variables and the big picture. The previous statement equally applies to: optimising energy usage in a hybrid vehicle, people's acceptance of sustainable alternatives (products, services and behavioural), and the holistic approach required of a energy system with a high proportion of renewables - all personnal interest of mine!
 
+---
 
 ## Contact
 
