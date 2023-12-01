@@ -45,6 +45,21 @@ Key tools/library/concepts used:
 - Databse creation: `PostgreSQL` through the `Postbird` client. 
 - Visualisation: `Tableau`.
 
+
+### Project 3: [Subscriber Cancellations Data Pipeline](https://github.com/leotapie/portfolio_projects/tree/main/Subscriber%20Cancellations%20Data%20Pipeline) - Automated bash+python pipeline to clean SQLite database. 
+
+Steps:
+  1) Explore starting database, determine data cleaning steps and table formats for cleaned database.
+  2) Write the main script: `cleanse_data.py` - which extracts, transforms and load the data, and contains unit tests and error/updates logging.
+  3) Write the bash script: `script.sh` - which calls on the python cleansing script and moves/updates the final cleased database in the `/prod`folder (through user prompts)
+ 
+Key tools/library/concepts used:
+- Cleaning and loading data: `pandas` and `sqlite3` libraries
+- Checks and error handling: unit tests and logger (automated updates to changelog)
+- Computational efficiency: clean and load new data only to production database
+- bash scripting
+
+
 ---
 
 ## About Me
