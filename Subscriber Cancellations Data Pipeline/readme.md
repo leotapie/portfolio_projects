@@ -23,4 +23,4 @@ This repository is set up as if the scripts have never been run. To run,
 7. If so, `script.sh` will request permission to overwrite the production database
 7. If the user grants permission, `script.sh` will copy the updated database to `prod`
 
-If you follow these instructions, the script will run on the initial dataset in `dev/cademycode.db`. To test running the script on the updated database, change the name of `dev/cademycode_updated.db` to `dev/cademycode.db` in the `cleanse_data.py`.
+If you follow these instructions, the script will run on the initial dataset in `dev/cademycode.db`. To test running the script on the updated database, change the name of `dev/cademycode_updated.db` to `dev/cademycode.db` in the `cleanse_data.py` script.
