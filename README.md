@@ -13,9 +13,9 @@ Welcome to my GitHub portfolio! You'll find a collection of some of my projects 
 ## Projects
 
 My main focus for these projects has been to:
-- learn about best practices associated with data cleaning, transformation and modelling
-- utilise my Python and SQL skills
-- and showcase my knowledge of a wide range of plotting libraries and visualisation tools.
+- learn about best practices associated with data extraction, cleaning, transformation and predictive modelling
+- demonstrate my programming, querying, and visualisation skills
+- work on topics I'm interested in
 
 I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. 
 My thought process and workflow is always explained (in the notebooks or README sections of each projects) and all scripts are thoroughly commented.
