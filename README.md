@@ -77,7 +77,7 @@ Here we are... I'm looking for my first data analyst/scientist job! I've always 
 
 ## Contact
 
-- Email: leotapie@@email.com
+- Email: leotapie(at)gmail(dot)com
 - LinkedIn: [Leo Tapie](https://www.linkedin.com/in/leo-tapie-81a101132/)
 
 ---
