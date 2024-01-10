@@ -17,8 +17,7 @@ My main focus for these projects has been to:
 - demonstrate my programming, querying, and visualisation skills
 - work on topics I'm interested in
 
-I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. 
-My thought process and workflow is always explained (in the notebooks or README sections of each projects) and all scripts are thoroughly commented.
+I've added a short description of each project below so you can get an idea of the concepts and skills I've applied - and choose what you wish to look at. My thought process and workflow are explained in the notebooks and readme sections of each projects, and all scripts are thoroughly commented.
 
 ### Project 1: [NBA MVP prediction](https://github.com/leotapie/portfolio_projects/tree/main/MVP%20prediction%20project) - Predicting the next MVP based on historical stats data. 
 
@@ -33,7 +32,22 @@ Key tools/library/concepts used:
 - Modemming: `pandas` and `sklearn` libraries. Concepts: **Machine learning, error metric & back testing**.
 
 
-### Project 2: [Citi Bike Rental](https://github.com/leotapie/portfolio_projects/tree/main/Citi%20Bike%20Rides) - Analyse NYC's city bike trips from 2016.
+### Project 2: [Dogs vs. Cats Image Classifier]() - Fine tunning of the Convolutional Neural Network (CNN) VGG16 to class images.
+
+Steps:
+  1) Load and extract label from training data
+  2) Build Training, Validation and Testing generators
+  3) Build the CNN model based on VGG16 (5 layers added)
+  4) Train model
+  5) Test model on validation set (visualisation of perfermance and confusion matrix)
+
+Key tools/library/concepts used:
+- Loading and prepocessing data: `pandas`, `numpy` and `sklearn` libraries.
+- Model and Generators: `Tensorflow` librariy with `Keras` API. 
+- Performance: `matplotlib`and `sklearn` libraries.
+
+
+### Project 3: [Citi Bike Rental](https://github.com/leotapie/portfolio_projects/tree/main/Citi%20Bike%20Rides) - Analyse NYC's city bike trips from 2016.
 
 Steps:
   1) Cleaning and combining the data
@@ -46,7 +60,7 @@ Key tools/library/concepts used:
 - Visualisation: `Tableau`.
 
 
-### Project 3: [Subscriber Cancellations Data Pipeline](https://github.com/leotapie/portfolio_projects/tree/main/Subscriber%20Cancellations%20Data%20Pipeline) - Automated bash+python pipeline to clean SQLite database. 
+### Project 4: [Subscriber Cancellations Data Pipeline](https://github.com/leotapie/portfolio_projects/tree/main/Subscriber%20Cancellations%20Data%20Pipeline) - Automated bash+python pipeline to clean SQLite database. 
 
 Steps:
   1) Explore starting database, determine data cleaning steps and table formats for cleaned database.
